@@ -15,7 +15,7 @@
 
 ---
 ## 🌟 Open-Source Vision
-My main interest lies in making **Verilog**, **SystemVerilog** resources, and everything related to VLSI open source. The VLSI industry often operates on a more closed level, which I believe slows down technological advancements in this field. I aspire to be a key contributor to open-source efforts in VLSI, fostering innovation and accessibility for the next generation of engineers.
+My main interest lies in making **VLSI** related resources open source. The VLSI industry often operates on a more closed level, which I believe slows down technological advancements in this field. I aspire to be a key contributor to open-source efforts in VLSI, fostering innovation and accessibility for the next generation of engineers.
  
 
 ---
