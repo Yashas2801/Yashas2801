@@ -7,7 +7,7 @@
 ## 🛠 Skills
 - **Advanced Digital Design**: Crafting efficient and innovative digital systems.
 - **Hardware Description Languages (HDL)**: Expert in **Verilog** for designing precise digital logic.
-- **High-Level Verification (HVL) & Methodologies**: Proficient in **SystemVerilog** and **UVM**
+- **Hardware Verification language (HVL) & Methodologies**: Proficient in **SystemVerilog** and **UVM**
 - **Neovim | tmux**: Vim motions, search and replace, macros, LSP support, formatting, syntax highlighting | Workflow management.
 
 ## 📘 Currently Learning
