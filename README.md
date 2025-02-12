@@ -12,7 +12,6 @@
 
 ## 📘 Currently Learning
 - **Python**: Exploring scripting and automation to enhance workflows and productivity.
-- **Didital IC Design**: NPTEL
 
 ---
 ## 🌟 Open-Source Vision
